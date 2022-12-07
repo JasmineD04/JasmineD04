@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **WEB DEV,APP DEV**
 
-- 🌱 I’m currently learning **angular,react**
+- 🌱 I’m currently learning **angular,DSA**
 
 - 👯 I’m looking to collaborate on **WEB DEVELOPMENT PROJECTS**
 
